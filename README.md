@@ -1,6 +1,6 @@
 # R_Programming
 
-# R-Programming
+
 Course offered by Johns Hopkins University through Coursera
 
 *Contains submitted codes for all Homeworks:*  
@@ -12,7 +12,6 @@ Week 4: Hospital Quality
 
 
 *Official Certifcate Link:* https://www.coursera.org/account/accomplishments/verify/7T78MB8486EE    
-*Received Grades:* **100.0%**  
 
-**Code Format:** R (to reduce the number of uploaded files)  
+
 *To compile resources, use R.*  
